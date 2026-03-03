@@ -2,7 +2,17 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/my-childhood/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/eating-watermelon/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact/
         </loc>
     </url>
     <url>
@@ -12,12 +22,12 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/blog/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            http://localhost:8000/category/childhood/
         </loc>
     </url>
     <url>
